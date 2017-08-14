@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Not Found</title>
+<style> 
+    body {
+        background-color: red;
+        color: black;
+</style>
+    
+</head>
+<body> 
+    <h1> This is not the webage you are looking for </h1>
+    <h2> IT DOESNT EXSIST I PROMISE </h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfN4AFXRCzzWRiw9iFeGReJSojK4wvrtElgwe6VvomavwlYre7" alt="Error"
+    <h6> If you are troubled click the link </h6>
+    <a href="https://laurel.codehs.me/"> Back to site</a>
+</body>
+    
+    
+    
+</html>
